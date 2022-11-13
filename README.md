@@ -1,2 +1,9 @@
 # smolfetch
 Just a fetch script who displays some informations about your system
+
+To be use it, firstly download it:
+'wget https://raw.githubusercontent.com/xthusiast/smolfetch/main/smolfetch.sh'
+And then make it executable:
+'chmod +x smolfetch.sh'
+
+To run it, use './smolfetch.sh' in the directory you downloaded it in.
