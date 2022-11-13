@@ -1,5 +1,5 @@
 # smolfetch
-Just a fetch script who displays some informations about your system
+Just a fetch script that displays some informations about your system
 
 To be able to use it, firstly download it:
 `wget https://raw.githubusercontent.com/xthusiast/smolfetch/main/smolfetch.sh`,
